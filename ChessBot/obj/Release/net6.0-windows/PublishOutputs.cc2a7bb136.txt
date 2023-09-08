@@ -1,0 +1,5 @@
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\bin\Release\net6.0-windows\publish\ChessBot.exe
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\bin\Release\net6.0-windows\publish\ChessBot.dll
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\bin\Release\net6.0-windows\publish\ChessBot.deps.json
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\bin\Release\net6.0-windows\publish\ChessBot.runtimeconfig.json
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\bin\Release\net6.0-windows\publish\ChessBot.pdb

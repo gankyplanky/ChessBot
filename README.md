@@ -5,7 +5,7 @@ The bot itself is rather simple using alpha-beta prunning algorithm working with
 # Test it
 If you want to try out the bot (you will win its not that great) simply clone the repo.
 ```
-git clone git@github.com:gankyplanky/ChessBot.git
+git clone https://github.com/gankyplanky/ChessBot.git
 ```
-After navigate to 'ChessBot/bin/Release/net6.0-windows/' and execute the ChessBot.exe.
+After, navigate to 'ChessBot/bin/Release/net6.0-windows/publish/' and execute the ChessBot.exe.
 As this is a WPF app it can run on Windows no problem, but you will have to use WINE for linux (untested for linux).

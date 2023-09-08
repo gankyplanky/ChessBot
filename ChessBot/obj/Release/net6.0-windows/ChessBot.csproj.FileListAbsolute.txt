@@ -13,7 +13,6 @@ C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Pieces\Queen.g.cs
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Pieces\Rook.g.cs
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\BotWindow.g.cs
-C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\PvPWindow.g.cs
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\TeamChoice.g.cs
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\App.g.cs
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\ChessBot_MarkupCompile.cache
@@ -27,7 +26,6 @@ C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Pieces\Queen.baml
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Pieces\Rook.baml
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\BotWindow.baml
-C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\PvPWindow.baml
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\Windows\TeamChoice.baml
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\ChessBot.g.resources
 C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\ChessBot.GeneratedMSBuildEditorConfig.editorconfig
