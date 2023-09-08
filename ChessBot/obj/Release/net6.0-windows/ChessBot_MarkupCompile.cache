@@ -1,0 +1,20 @@
+﻿ChessBot
+
+
+winexe
+C#
+.cs
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\obj\Release\net6.0-windows\
+ChessBot
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Fakultet\Projektovanje softvera\ChessBot\ChessBot\App.xaml
+122061797854
+
+16-2034665759
+194237474483
+MainWindow.xaml;Pieces\Bishop.xaml;Pieces\Cell.xaml;Pieces\King.xaml;Pieces\Knight.xaml;Pieces\Pawn.xaml;Pieces\Queen.xaml;Pieces\Rook.xaml;Windows\BotWindow.xaml;Windows\PvPWindow.xaml;Windows\TeamChoice.xaml;Windows\VictoryScreen.xaml;
+
+False
+
